@@ -1,5 +1,5 @@
-#Photobook a Social Network
-In this project, I and a classmate designed and implement a social network in 5 phases.
+# Photobook a Social Network
+## In this project, I and a classmate designed and implement a social network in 5 phases.
 
 Phase 1: In this part, we implement the front-end part of the sign-up form of the social platform. 
 
